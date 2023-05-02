@@ -1,3 +1,3 @@
 # Quick
 Live Preview
-https://rayadkhan.github.io/Quick/
+https://rayadkhan001.github.io/Quick/
